@@ -1,7 +1,7 @@
 <!-- Profile README — @sohayb-elbakali -->
 
 <!-- ======= Banner ======= -->
-<h1 align="center">Hi, I'm Sohayb Elbakali 👋</h1>
+<h1 align="center">Hi, I'm Sohayb El Bakali 👋</h1>
 <h3 align="center">Software Engineer • Backend Developer • Cloud & Data Enthusiast</h3>
 
 <p align="center">
@@ -69,14 +69,3 @@
 
 ## Let's Connect
 
-<p align="center">
-  <a href="https://github.com/sohayb-elbakali" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-@sohayb-elbakali-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/sohayb-el-bakali/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-sohayb-el-bakali-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:sohaybelbakali@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-sohaybelbakali@gmail.com-D14836?style=flat-square&logo=gmail" />
-  </a>
-</p>
