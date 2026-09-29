@@ -9,11 +9,11 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sohayb-elbakali/" target="_blank">
+  <a href="https://www.linkedin.com/in/sohayb-el-bakali/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:sohayb.elbakali@example.com" target="_blank">
+  <a href="mailto:sohaybelbakali@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
@@ -73,7 +73,10 @@
   <a href="https://github.com/sohayb-elbakali" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-@sohayb-elbakali-181717?style=flat-square&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/sohayb-elbakali/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-sohayb-elbakali-0A66C2?style=flat-square&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/sohayb-el-bakali/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-sohayb-el-bakali-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:sohaybelbakali@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-sohaybelbakali@gmail.com-D14836?style=flat-square&logo=gmail" />
   </a>
 </p>
