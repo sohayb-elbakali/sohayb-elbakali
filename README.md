@@ -2,7 +2,7 @@
 
 <!-- ======= Banner ======= -->
 <h1 align="center">Hi, I'm Sohayb El Bakali 👋</h1>
-<h3 align="center">Software & Data Engineer,Ai & Cloud Enthusiast</h3>
+<h3 align="center">Software & Data Engineer , Ai & Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/sohayb-elbakali" target="_blank">
